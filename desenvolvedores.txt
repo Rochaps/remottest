@@ -1,2 +1,6 @@
 Jardel da Rocha Pereira Silva.
+<<<<<<< HEAD
 Olá, Mundo!
+=======
+Magno Ibiapino Bento
+>>>>>>> 6dcaf5a9a27ffc87184cfb5d69516a12e3f6aba0
